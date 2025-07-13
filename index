@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Modern Digital and Analog Communications Systems</title>
+  <style>
+    body {
+      margin: 0;
+      background: #333;
+      color: #fff;
+      font-family: sans-serif;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    header {
+      padding: 1em;
+      background: #222;
+      text-align: center;
+    }
+    iframe {
+      flex: 1;
+      border: none;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Modern Digital and Analog Communications Systems</h1>
+  </header>
+  <iframe src="pdf/ModernDigitalAndAnalogCommunicationsSystems.pdf"></iframe>
+</body>
+</html>
